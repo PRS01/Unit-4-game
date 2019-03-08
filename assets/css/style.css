@@ -1,0 +1,12 @@
+body, html {
+    height: 100%''
+}
+
+.container-fluid {
+   
+    background-image: url("/assets/images/cave.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
