@@ -8,3 +8,7 @@ body, html {
     background: rgb(240, 193, 222);
 }
 
+#scoreToMatch,
+#totalScore {
+    margin-left: 20px;
+}
